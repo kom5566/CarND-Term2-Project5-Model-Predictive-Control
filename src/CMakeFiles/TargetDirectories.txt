@@ -1,0 +1,3 @@
+/mnt/c/Users/kom/AnacondaProjects/CarND-MPC-Project-master/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kom/AnacondaProjects/CarND-MPC-Project-master/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kom/AnacondaProjects/CarND-MPC-Project-master/src/CMakeFiles/mpc.dir
